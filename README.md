@@ -135,7 +135,7 @@
    
    
    
-   <h5 class="wp-block-heading">STEP #1: <strong>Record</strong></h5>
+   <h3 class="wp-block-heading">STEP #1: <strong>Record</strong></h3>
    
    
    
@@ -145,7 +145,7 @@
    
    
    
-   <h5 class="wp-block-heading">STEP #2: <strong>Edit</strong></h5>
+   <h3 class="wp-block-heading">STEP #2: <strong>Edit</strong></h3>
    
    
    
@@ -155,7 +155,7 @@
    
    
    
-   <h5 class="wp-block-heading">STEP #3: <strong>Share</strong></h5>
+   <h3 class="wp-block-heading">STEP #3: <strong>Share</strong></h3>
    
    
    
@@ -250,7 +250,7 @@
    
    
    
-   <h5 class="wp-block-heading"><strong>Pros:</strong></h5>
+   <h3 class="wp-block-heading"><strong>Pros:</strong></h3>
    
    
    
@@ -276,7 +276,7 @@
    
    
    
-   <h5 class="wp-block-heading"><strong>Cons:</strong></h5>
+   <h3 class="wp-block-heading"><strong>Cons:</strong></h3>
    
    
    
